@@ -1,10 +1,14 @@
-> ### Regarding this mod
+### Regarding this mod
 
-Modding Us uses a old version of the base game, it will still be maintained, but if you want a mod launcher compatible with the latest game version and most BepInEx mods, migrate to [Starlight](https://allofus.dev/starlight.html) by [All of Us](https://discord.gg/adXeB8zvRb)
+This repository is now **archived and no longer maintained**.
 
+Modding Us relied on an old version of the base game. Maintaining this legacy codebase is no longer worth the effort compared to the improvements offered by newer tooling.
 
-</p>
+If you want a launcher compatible with the **latest version of Among Us** and most **BepInEx mods**, you should migrate to **[Starlight](https://allofus.dev/starlight.html)**
 
+Starlight is significantly more stable, better documented, and much more open for development. It also uses the same backend stack as modern PC Among Us mods (BepInEx), making it far easier to develop, maintain, and share mods across platforms.
+
+The only regression when switching is that ARM32 devices are no longer supported.
 <br>
 
 ---
