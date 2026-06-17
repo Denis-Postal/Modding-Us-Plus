@@ -1,4 +1,0 @@
-<b>Modding Us</b> got a new server thanks to Bluesus!
-We have some updates planned to improve QOL, mod support and compatibility.
-
-Migrate to <link='https://discord.gg/adXeB8zvRb'>Starlight</link> (All Of Us) if you want a more updated base game <i>(releasing in the upcoming months)</i>.
