@@ -75,3 +75,9 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 - Softwares
   - [AssetRipper](https://github.com/AssetRipper/AssetRipper) (decompiled Among Us)
   - [DnSpy](https://github.com/dnSpy/dnSpy) (decompiled some Submerged codes so i can have a idea of what i can do)
+  - # Modding Us Plus Credits
+- Project Lead and Developer
+  - [Inneruss](https://discord.gg/FypWFpZG2)
+
+
+
