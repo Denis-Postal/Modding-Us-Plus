@@ -1,7 +1,5 @@
 ### Regarding this mod
 
-This repository is now **archived and no longer maintained**.
-
 Modding Us relied on an old version of the base game. Maintaining this legacy codebase is no longer worth the effort compared to the improvements offered by newer tooling.
 
 If you want a launcher compatible with the **latest version of Among Us** and most **BepInEx mods**, you should migrate to **[Starlight](https://allofus.dev/starlight.html)**
