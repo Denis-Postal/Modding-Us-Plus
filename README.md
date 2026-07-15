@@ -21,34 +21,28 @@ Integrated custom roles:
 - Phantom (turn invisible)
 - Shapeshifter (disguise yourself)
 
-### External Mods Support
-
-Modding Us has external mods support. so devs can easily create their own mods. [Mod Example](https://github.com/OvernightAU/Experimental-RoleExample)
-
 ## Installation
 
 ### PC (Using BlueStacks or LDPlayer):
 
-1. **Download Modding Us APK** - Download the Modding Us APK from the [Releases section](https://github.com/OvernightAU/ModdingUs/releases).
+1. **Download Modding Us Plus APK** - Download the Modding Us APK from the [Releases section](https://github.com/Denis-Postal/Modding-Us-Plus/releases).
 2. **Install an Android Emulator** - Download and install **BlueStacks** or **LDPlayer** on your PC:
    - [Download BlueStacks](https://www.bluestacks.com)
    - [Download LDPlayer](https://www.ldplayer.net)
 3. **Set Up the Emulator** - Open BlueStacks or LDPlayer and complete the initial setup (sign in with a Google account if required).
 4. **Install Modding Us in the Emulator** - Drag and drop the downloaded Modding Us APK file into the emulator window or use the "Install APK" option in the emulator.
-5. **Launch the Game** - Open Modding Us from the emulator's app drawer, and you should now be able play.
+5. **Launch the Game** - Open Modding Us Plus from the emulator's app drawer, and you should now be able play.
 
 ### Mobile (Android):
 
-1. **Download Modding Us** - Download the Modding Us APK from the [Releases](https://github.com/OvernightAU/ModdingUs/releases).
+1. **Download Modding Us Plus** - Download the Modding Us Plus APK from the [Releases](https://github.com/Denis-Postal/Modding-Us-Plus/releases).
 2. **Allow Unknown Sources** - Make sure you have allowed installation from unknown sources in your device settings.
-3. **Install Modding Us** - Install the APK you downloaded by following the on-screen instructions.
-4. **Launch the Game** - Open Among Us from your app drawer, and you should now be able to play.
+3. **Install Modding Us Plus** - Install the APK you downloaded by following the on-screen instructions.
+4. **Launch the Game** - Open Modding Us Plus from your app drawer, and you should now be able to play.
 
 ## Community and Support
 
 Join our community of Modding Us! If you encounter any issues, have suggestions, or want to share your experiences with the game, feel free to:
-
-- Report issues on [GitHub Issues](https://github.com/Pietrodjaowjao/ModdingUs/issues) or Live Chat with a staff on the [Support Server](https://discord.gg/gacJbcyuMr)
 - Join our Discord server: [Modding Us Discord](https://discord.gg/KRCSmSqgHz)
 
 # Disclaimer and Distribution Notice for Third-Party Content
@@ -74,7 +68,7 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 - Softwares
   - [AssetRipper](https://github.com/AssetRipper/AssetRipper) (decompiled Among Us)
-  - [DnSpy](https://github.com/dnSpy/dnSpy) (decompiled some Submerged codes so i can have a idea of what i can do)
+  - [DnSpy](https://github.com/dnSpy/dnSpy) (decompiled some Submerged codes)
   - # Modding Us Plus Credits
 - Project Lead and Developer
   - [Inneruss](https://discord.gg/FypWFpZG2)
