@@ -30,7 +30,7 @@ Integrated custom roles:
    - [Download BlueStacks](https://www.bluestacks.com)
    - [Download LDPlayer](https://www.ldplayer.net)
 3. **Set Up the Emulator** - Open BlueStacks or LDPlayer and complete the initial setup (sign in with a Google account if required).
-4. **Install Modding Us in the Emulator** - Drag and drop the downloaded Modding Us APK file into the emulator window or use the "Install APK" option in the emulator.
+4. **Install Modding Us Plus in the Emulator** - Drag and drop the downloaded Modding Us APK file into the emulator window or use the "Install APK" option in the emulator.
 5. **Launch the Game** - Open Modding Us Plus from the emulator's app drawer, and you should now be able play.
 
 ### Mobile (Android):
